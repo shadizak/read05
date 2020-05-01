@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Read 05 Task
 
-You can use the [editor on GitHub](https://github.com/shadizak/read05/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## In this task was helpful so  I learned this concepts:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. CSS stands for "Cascading Style Sheets." The "cascading" part means that when two styles conflict, the style that's lowest down in the document, which is where the newest content goes, is the one that gets applied.
 
-### Markdown
+2. CSS is written differently than HTML. You can see an example of a CSS code block below:
+selector {
+  property: value;
+  property: value;
+  property: value;
+}
+3. The selector, as shown in the above code block, specifies which element on your page you're modifying. Each property-value pair will be a style as you fill in the details. Inside the brackets, you add the styles you want to apply to that particular element.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shadizak/read05/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. Get comfortable using important tool to inspect and debug your websites Write and modify specific CSS selectors, attributes, and values to apply CSS styles (i.e., color and size)
